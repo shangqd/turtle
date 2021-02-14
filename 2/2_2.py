@@ -16,7 +16,7 @@ except:
     print("他妈的,输入正常一点好吗？")
     sys.exit()
 if n < 3:
-    print("他妈的，你有本时你画个一边行试试")
+    print("他妈的，你有本事你画个试试？")
     sys.exit()
 f = math.sin(math.pi * (90/n) / 180)
 l = l * f
